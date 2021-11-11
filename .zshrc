@@ -1,4 +1,5 @@
 source antigen.zsh
+antigen init ~/.antigenrc
 
 autoload -U colors && colors
 
